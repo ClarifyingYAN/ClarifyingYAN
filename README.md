@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm ✨CYan✨, a software engineering.
+I'm ✨CYan✨, a software engineering, pursuing a master degree now.
 
 - 👨‍🎓 Currently Studying at Northeastern University.
 - 💻 Major in Software Enineering System.
 - 🎯 Recently focus on Algorithms.
-- 👀 Looking for cool and fun projects.
-- 😄 Pronouns: He/His/Him
+- 👀 Looking for 2022 Summer SDE intern/co-op @ U.S.
+- 😄 Pronouns: He/His/Him.
 
 <!--
 **ClarifyingYAN/ClarifyingYAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

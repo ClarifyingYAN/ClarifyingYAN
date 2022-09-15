@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I'm ✨CYan✨, a software engineering, pursuing a master degree now.
+I'm ✨CYan✨, a software development engineer, pursuing a master degree now.
 
 - 👨‍🎓 Currently Studying at Northeastern University.
-- 💻 Major in Software Enineering System.
-- 🎯 Recently focus on Algorithms.
+- 💻 Major in Software Engineering System.
 - 😄 Pronouns: He/His/Him.
 
 <!--

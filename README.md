@@ -5,7 +5,6 @@ I'm ✨CYan✨, a software engineering, pursuing a master degree now.
 - 👨‍🎓 Currently Studying at Northeastern University.
 - 💻 Major in Software Enineering System.
 - 🎯 Recently focus on Algorithms.
-- 👀 Looking for 2022 Summer SDE intern/co-op @ U.S.
 - 😄 Pronouns: He/His/Him.
 
 <!--
